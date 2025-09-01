@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `Happy failed mensive.\nI know we’re not together anymore, i know maybe you don’t love me like before. But one thing you should know, I still love and care about you. My feelings are real, they’re honest, and I’m still here, waiting.\n\n I know we both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nWas there a moment you wished we never let go?. Lio, I’m still here. I haven’t gone anywhere. I hope that one day, you’ll understand and feel the love I’ve been carrying for you all this time.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
